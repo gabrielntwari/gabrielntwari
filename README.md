@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielntwari
-- 👀 I’m interested in Data science and Machine Learning 
-- 🌱 I’m currently learning Data science and machine learning at Carnegie Mellon university Africa
+- 👀 I’m interested in Data Science and Machine Learning 
+- 🌱 Carnegie Mellon University Africa Alumnus
 - 💞️ I’m looking to collaborate on Data science projects 
 
 
