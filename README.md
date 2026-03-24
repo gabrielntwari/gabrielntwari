@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @gabrielntwari
-- 👀 I’m interested in Data Science and Machine Learning 
-- 🌱 Carnegie Mellon University Africa Alumnus
-- 💞️ I’m looking to collaborate on Data science projects 
+- # 👋 Hi, I'm Gabriel Ntwari
 
+Senior Data Scientist focused on AI for public sector and digital transformation.
 
-<!---
-gabrielntwari/gabrielntwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Featured Projects
+- Retinal Vessel Segmentation using Deep Learning & Transformers
+- AI for Public Service Optimization
+- Data Systems & Analytics Dashboards
+
+## 🔗 Portfolio
+https://gabriel-ntwari.netlify.app/
+
+## 🧠 Skills
+Machine Learning | AI | Data Engineering | Python | SQL | Deep Learning
+
+## 🌍 Interests
+AI for Public Good • GovTech • Scalable Data Systems
